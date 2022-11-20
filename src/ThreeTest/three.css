@@ -1,0 +1,15 @@
+body {
+  background: #333;
+}
+
+h1 {
+  color: #fff;
+  font-weight: 300;
+}
+
+#threeContent {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100%;
+}
